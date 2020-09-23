@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "geek-flix"
+    }
+  },
+  "defaultProject": "geek-flix",
+  "cli": {
+    "analytics": "af3d0ec8-d5b2-42f5-9469-bd93deb58632"
+  }
 }
